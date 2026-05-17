@@ -1,8 +1,8 @@
 # The Global Kitchen API
-NAME:ASONGANYI MAXWELL AKANJU
-MATRICULE:LMUI250704
-Email:[asonganyimaxwella@gmail.com]
-Course:FullStack Development with javascript
+# NAME:ASONGANYI MAXWELL AKANJU
+# MATRICULE:LMUI250704
+# Email:[asonganyimaxwella@gmail.com]
+# Course:FullStack Development with javascript
 
 
 ## Tech Stack
